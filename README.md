@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 
 ### 🔥 Featured Projects
 
-### 🔥 Featured Projects
-
 #### 🚑 AI-Powered Multi-Agent Medical Chatbot Service
 🔗 https://gist.github.com/HeetRaichura/8f747ee716fdb7e15499645602a169b7  
 🧰 Python · NLP · GPT · RAG · Transformers  
@@ -49,8 +47,7 @@ A production-ready multi-agent chatbot with retrieval (RAG), routing, safety val
 🔗 https://gist.github.com/HeetRaichura/eb8059eb1700b09cbbef9b1c86f13f3d  
 🧰 Python · LSTM · ARIMA · Time-Series · Data Pipeline  
 Automated real-time prediction system analyzing 50+ stocks using deep learning & ensemble models.  
-📊 85% price prediction accuracy · 500k+ price records · 23% higher back-tested return vs market baseline
-.
+📊 85% price prediction accuracy · 500k+ price records · 23% higher back-tested return vs market baseline.
 
 ---
 
