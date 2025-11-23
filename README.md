@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hello there 👋 I'm Heet Raichura</h1>
 <h3 align="center">Data Analyst & AI/ML Engineer</h3>
 
-🚀 Results-driven data professional with hands-on experience in **machine learning**, **data analytics**, and **AI-powered applications**. Specialized in building scalable ML pipelines, predictive modeling, API-driven systems, and dashboard-based insights.
+🚀 Results-driven data professional with hands-on experience in **Machine Learning**, **Data Analytics**, and **AI-powered applications**. Specialized in building scalable ML pipelines, predictive modeling, API-driven systems, and dashboard-based insights.
 
-📍 Navi Mumbai, India  
+📍 Navi Mumbai, India
 📧 **heetraichura1543@gmail.com**  
 🔗 **LinkedIn:** https://linkedin.com/in/heet-raichura  
 🌐 **Portfolio (coming soon)**
@@ -26,12 +26,11 @@ Here are some ideas to get you started:
 ---
 
 ### 🧠 Core Expertise
-- **Programming:** Python, Java, SQL  
-- **Data & Visualization:** Power BI, Tableau, Excel, Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, LSTM, ARIMA, NLP, Transformers, GPT  
-- **Big Data:** Hadoop, Spark  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools:** Jupyter, Git, Helpdesk Systems  
+- **Programming:** Python, Java, SQL
+- **Data & Visualization:** Power BI, Tableau, Excel, Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, LSTM, ARIMA, NLP, Transformers, GPT
+- **Databases:** MySQL, PostgreSQL, MongoDB 
+- **Tools:** Jupyter, Git, Helpdesk Systems
 
 ---
 
